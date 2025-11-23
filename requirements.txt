@@ -1,0 +1,17 @@
+streamlit
+streamlit_lottie
+streamlit_option_menu
+langchain
+langchain_community
+langchain-huggingface
+python-dotenv
+together
+huggingface_hub
+faiss-cpu
+pandas
+spacy
+nltk
+fuzzywuzzy
+pydantic
+sentence-transformers
+einops
